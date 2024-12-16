@@ -70,7 +70,7 @@ const Styles = styled.div`
     }
 `;
 
-const positionTitle = "Software Intern";
+const positionTitle = "Software Engineer";
 const companyName = "Electronic Arts";
 const companyURL = "https://www.ea.com/";
 
