@@ -74,8 +74,6 @@ const positionTitle = "Software Intern";
 const companyName = "Electronic Arts";
 const companyURL = "https://www.ea.com/";
 
-// const jobSearchYear = 2021; 
-
 const wrappedContent = [`Passionate about systems programming, clever algorithms, and distributed systems.`, `Enjoy playing beach volleyball, cooking, and gaming.`]
 
 const Header = () => (
@@ -96,7 +94,6 @@ const Header = () => (
                         </div>
                         <div id="wrap-display">
                             <p>{wrappedContent[1]}</p>
-                            {/* <p>{wrappedContent[1]}</p> */}
                         </div>
                         
                     </div>
