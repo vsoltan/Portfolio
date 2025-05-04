@@ -271,7 +271,7 @@ function PortfolioCard() {
     );
     const PFOverlay = [
         overlayContent,
-        "https://github.com/vsoltan/portfolio",
+        "https://github.com/vsoltan/Portfolio",
     ];
     return (
         <ProjectCard title={PFTitle} img={PRO} scale={25} overlayData={PFOverlay} />
